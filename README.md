@@ -50,11 +50,6 @@ A simple calculator web application built using **HTML**, **CSS**, and **JavaScr
 ## Screenshot
 <img width="452" alt="Screenshot 2025-01-29 at 10 19 02" src="https://github.com/user-attachments/assets/a0259cd2-636a-495e-9078-b3c00db8a538" />
 
-## Contributing
-
-Feel free to fork the repository, make changes, and submit pull requests. If you find any bugs or have suggestions for improvements, please open an issue.
-
----
 
 ### Optional Enhancements:
 - You could add an optional section on how to extend the app if you want to make it even more useful:
