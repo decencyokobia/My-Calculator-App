@@ -48,7 +48,7 @@ A simple calculator web application built using **HTML**, **CSS**, and **JavaScr
 - Output: `8`
 
 ## Screenshot
-<img width="452" alt="Screenshot 2025-01-29 at 10 19 02" src="https://github.com/user-attachments/assets/a0259cd2-636a-495e-9078-b3c00db8a538" />
+<img width="452" alt="Screenshot" src="./app_screenshot.png" />
 
 
 ### Optional Enhancements:
