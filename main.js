@@ -34,6 +34,6 @@ function square(){
     display.value *= display.value;
 }
 
-function pie(){
-    display.value *= 3.14;
+function squareRoot(){
+    display.value = Math.sqrt(display.value);
 }
