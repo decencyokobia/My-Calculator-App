@@ -19,11 +19,14 @@ function clearDisplay(){
     display.value = "";
 }
 
-const timer = document.getElementById('timer');
+const mytime = document.getElementById('timer');
+mytime.onclick = myFunction;
 
-timer.addEventListener('click', function myFunction(){
-   this.innerHTML = Date();
-})
+function myFunction(){
+   setInterval(() => {
+    mytime.innerHTML = Date();
+    }, 1000);
+};
 
 
 function percentage(){
